@@ -5,3 +5,6 @@
   padding: 6px;
   margin: 20px
 }
+.column p {
+  background-color: blue;
+}
