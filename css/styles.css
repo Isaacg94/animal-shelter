@@ -2,4 +2,6 @@
   width: 350px;
   float: left;
   border: 2px solid red;
+  padding: 6px;
+  margin: 20px
 }
